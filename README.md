@@ -8,7 +8,7 @@
 
 ### Portifólio Pessoal!
 ---
-### Este é o portifólio pessoal criado durante o segundo challenge do curso ONE:
+### Este é o portifólio pessoal criado durante o segundo challenge do curso ONE
 
 #### Versão 1.0
 
