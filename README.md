@@ -12,9 +12,6 @@
 
 #### Versão 1.0
 
-#### Versão final em breve
-
-
 ###  Ferramentas Utilizadas:
 ---
 #### 🔹 HTML
